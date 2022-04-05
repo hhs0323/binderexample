@@ -5,6 +5,4 @@ channels:
 dependencies:
   - pysal==2.6.0
   - osmnx==1.1.2
-  - xarray==2022.3.0
-  - geoplot==0.5.1
   
