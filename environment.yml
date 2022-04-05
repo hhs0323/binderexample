@@ -3,5 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - geopandas=0.10.2
+  - pysal==2.6.0
+  - osmnx==1.1.2
+  - xarray==2022.3.0
+  - geoplot==0.5.1
   
