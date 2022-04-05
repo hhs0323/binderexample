@@ -5,4 +5,5 @@ channels:
 dependencies:
   - pysal==2.6.0
   - osmnx==1.1.2
+  - xarray
   
